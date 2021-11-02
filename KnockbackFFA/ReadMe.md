@@ -13,7 +13,7 @@ Addet AutoUpdater
 <br>
 
 Addet wiki: https://github.com/McpeBooster/KnockbackFFA-McpeBooster/wiki
-
+s
 <br>
 
 The plugin is now complete and has been released
